@@ -166,12 +166,3 @@ If leaked, regenerate it immediately in the Discord Developer Portal.
 If you enjoy this project, consider starring the repository!
 
 ---
-
-If you'd like, I can now create:
-
-* 🔥 A super flashy animated GitHub profile-style README
-* 🧱 A minimal clean professional README
-* 🎮 A gamer-themed neon README
-* 🏢 A polished open-source portfolio version
-
-Just tell me the vibe you want 😎
