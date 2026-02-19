@@ -164,5 +164,3 @@ If leaked, regenerate it immediately in the Discord Developer Portal.
 ## ⭐ Support
 
 If you enjoy this project, consider starring the repository!
-
----
